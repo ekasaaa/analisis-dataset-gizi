@@ -1,4 +1,4 @@
-Food_Item;Category;Calories (kcal);Protein (g);Carbohydrates (g);Fat (g);Fiber (g);Sugars (g);Sodium (mg);Cholesterol (mg);Meal_Type;Water_Intake (ml);
+Nama_Makanan;Kategori;Energi (kkal);Protein (g);Karbohidrat (g);Lemak (g);Serat (g);Gula (g);Natrium (mg);Kolesterol (mg);Waktu_Makan;Air (ml);
 Scrambled Eggs (2 large);Protein/Dairy;180;12.0;2.0;14.0;0.0;1.0;180;370;Breakfast;250;
 Whole Wheat Toast (1 slice);Grain;80;4.0;14.0;1.0;2.0;2.0;140;0;Breakfast;0;
 Coffee (black);Beverage;5;0.3;0.0;0.1;0.0;0.0;5;0;Breakfast;0;
